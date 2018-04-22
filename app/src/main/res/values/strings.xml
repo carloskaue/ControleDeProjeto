@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ControleDeProjeto</string>
+    <string name="title_activity_dados_projetos">DadosProjetos</string>
+</resources>
